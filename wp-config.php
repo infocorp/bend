@@ -19,10 +19,10 @@
 define('DB_NAME', 'infocorp');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'connie');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'mattyws022');
+define('DB_PASSWORD', 'jyRAmwPb');
 
 /** nome do host do MySQL */
 define('DB_HOST', 'localhost');
