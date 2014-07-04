@@ -25,7 +25,7 @@ define('DB_USER', 'connie');
 define('DB_PASSWORD', 'jyRAmwPb');
 
 /** nome do host do MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'tunnel.pagodabox.com:3306');
 
 /** Conjunto de caracteres do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
